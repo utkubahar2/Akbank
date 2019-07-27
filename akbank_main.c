@@ -1,7 +1,7 @@
 int main()
 {
 	printf("Hello RKL");
-	printf("Hello TROY");
+	printf("Hello UTKU");
 	
 	return 0;
 }
