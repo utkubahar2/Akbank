@@ -1,5 +1,5 @@
 int main()
 {
-	printf("MASTER COMMIT")
+	printf("RKL COMMIT")
 	return 0;
 }
