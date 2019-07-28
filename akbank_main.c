@@ -1,11 +1,7 @@
 int main()
 {
-	printf("Hello RKL");
-<<<<<<< Utku
-	printf("Hello UTKU");
-=======
-	printf("Hello Edit");
->>>>>>> master
+
+	printf("HELLO");
 	
 	return 0;
 }
